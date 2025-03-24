@@ -42,6 +42,8 @@ public class oib {
         if(k == oib[10]){
             System.out.println("oib je ispravan");
 
+        }else {
+            System.out.println("oib je neispravan");
         }
 
 
